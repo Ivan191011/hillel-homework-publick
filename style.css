@@ -1,0 +1,32 @@
+main {
+    background-color: yellow;
+    height: 700px;
+}
+section {
+    background-color: rgb(68, 0, 255);
+ width: 1000px;
+   margin: 0 auto;
+margin-left: auto;
+margin-right: auto;
+}
+a {
+background-color: rgb(8, 8, 168);
+color: #fff;
+padding: 10px 25px;
+display: inline-block;
+text-decoration: none;
+
+}
+div {
+    background-color: #fff;
+    width: 300px;
+      text-align: center;
+  display: inline-block;
+  padding: 10px 0 15px 0;
+    
+}
+h1 {
+color: #fff;
+font-size: 45px;
+text-align: center;
+}
