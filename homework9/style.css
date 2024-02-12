@@ -1,0 +1,14 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    }
+    .header {
+        background-color: darkslategray;
+    }
+    .navigation-list {
+        display: flex;
+    }
+    .navigation-item {
+max-width: 50px;
+flex-direction: row;
+    }
